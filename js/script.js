@@ -8,7 +8,7 @@ $(function(){
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = 'libraries library';
+    var keywords = 'libraries library librarian librarians';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'any'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
@@ -18,7 +18,7 @@ $(function(){
     var byline = 'Created by <a href="https://timsherratt.org">Tim Sherratt</a>.'
     // var byline = '';
     // Add a tagline
-    var tagline = 'How well do you know your Australian libraries history?';
+    var tagline = 'How well do you know your Australian history about librarians and libraries?';
     // Leave this alone unless you're publishing on a non-https server
     var useHttps = 'true';
 
