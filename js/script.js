@@ -8,7 +8,7 @@ $(function(){
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = 'easter eggs';
+    var keywords = 'easter';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'phrase'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
