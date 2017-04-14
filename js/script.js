@@ -5,7 +5,7 @@ $(function(){
     // You must supply a Trove API key
     var troveAPIKey = 'qgpc7ltj5v80er29';
     // Either provide full API query here or include options below
-    var apiQuery = 'easter eggs';
+    var apiQuery = 'easter';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
     var keywords = 'phrase';
