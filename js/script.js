@@ -5,12 +5,12 @@ $(function(){
     // You must supply a Trove API key
     var troveAPIKey = 'qgpc7ltj5v80er29';
     // Either provide full API query here or include options below
-    var apiQuery = 'easter';
+    var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = 'phrase';
+    var keywords = 'easter eggs';
     // How you want to combine keywords -- all, any, or phrase
-    var keywordType = 'all'
+    var keywordType = 'phrase'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
     // var titles = '840 35';
     var titles = '';
