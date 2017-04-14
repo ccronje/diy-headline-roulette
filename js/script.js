@@ -3,12 +3,12 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = 'qgpc7ltj5v80er29';
     // Either provide full API query here or include options below
-    var apiQuery = '';
+    var apiQuery = 'easter eggs';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = '';
+    var keywords = 'phrase';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'all'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
@@ -18,7 +18,7 @@ $(function(){
     var byline = 'Created by <a href="https://timsherratt.org">Tim Sherratt</a>.'
     // var byline = '';
     // Add a tagline
-    var tagline = 'How well do you know your Australian history?';
+    var tagline = 'How well do you know your Australian Easter history?';
     // Leave this alone unless you're publishing on a non-https server
     var useHttps = 'true';
 
