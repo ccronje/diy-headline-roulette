@@ -18,7 +18,7 @@ $(function(){
     var byline = 'Created by <a href="https://timsherratt.org">Tim Sherratt</a>.'
     // var byline = '';
     // Add a tagline
-    var tagline = 'How well do you know your Australian history about librarians and libraries?';
+    var tagline = 'How well do you know your history about Australian libraries?';
     // Leave this alone unless you're publishing on a non-https server
     var useHttps = 'true';
 
