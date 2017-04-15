@@ -10,7 +10,7 @@ $(function(){
     // var keywords = 'weather wragge';
     var keywords = 'library patrons';
     // How you want to combine keywords -- all, any, or phrase
-    var keywordType = 'phrase'
+    var keywordType = 'all'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
     // var titles = '840 35';
     var titles = '';
